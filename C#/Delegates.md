@@ -20,7 +20,7 @@ private void DoSomeStuff(ErrorCall error, string errorMessage)
 {
     //какойто код
     
-//Этот метод понятия не имеет что будет делатью
+//Этот метод понятия не имеет что будет делать
 //Все что понятно это то что будет некий метод c сигнатурой делегата
     error?.Invoke(errorMessage);
 }
