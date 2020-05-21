@@ -1,6 +1,8 @@
 ### Useful Linux terminal comands
-1. Alias
+- [Alias](#Alias) terminal binds
 
+
+## Alias
  > [!TIP]
 > Alias-позволяет заменить длинную команду более коротким биндом
 
