@@ -1,0 +1,1 @@
+- [Delegate](/C#/Delegates.md)
