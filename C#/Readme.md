@@ -1,1 +1,1 @@
-- [Delegate](/C#/Delegates.md)
+- [Delegate](C#/Delegates.md)
