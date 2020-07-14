@@ -2,7 +2,7 @@
 
 
 
-<img style="float: right;" src="/Resources/LexWeb%20logo.png">
+<img style="float: right;" src="/Git/LexWeb%20logo.png">
 
 
 ### СТАРТ ПРОЕКТА
