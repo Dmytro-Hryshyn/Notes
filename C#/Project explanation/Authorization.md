@@ -3,12 +3,8 @@
 1. Lets get started with new Blazor Server Project.
 - Open Visual Studio
 - Create new project
-- Select Blazor App. Name it as `BlazorApp` and `Authorization demo` for soulution name.
-Press `Create`. Make sure that `Blazor Server app` is selected.
-- Change Authentication to `Individual User Account` and store user accounts in app
-
-<img src="Images/Authentication.jpg" height ="200">
-
+- Select Blazor App. Name it as `BlazorApp` and `Authorization demo` for soulution name.Press `Create`. Make sure that `Blazor Server app` is selected.
+- Change Authentication to `Individual User Account` and store user accounts in app [screen shot](https://github.com/Dmytro-Hryshyn/Knowledge-Base/blob/master/Images/Authentication.jpg)
 - And press `Create`
 
 2. Open  file `appsettings.json` in soulution explorer,  change Data Base name to somthing meaningful.
