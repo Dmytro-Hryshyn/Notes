@@ -1,4 +1,4 @@
 # Knowledge-Base
- - [C#](https://github.com/Dmytro-Hryshyn/Knowledge-Base/blob/master/C%23/Readme.md)
+ - [C#](https://github.com/Dmytro-Hryshyn/Knowledge-Base/tree/master/C%23)
  - [Linux](/Linux/)
  - [Git](/Git/Git.md)
