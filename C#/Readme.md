@@ -1,1 +1,2 @@
 - [Delegates](/C#/Delegates.md)
+- [Add `appsettings.json` to console](https://github.com/Dmytro-Hryshyn/Knowledge-Base/blob/master/C%23/Appsettings-to-Console.md)
